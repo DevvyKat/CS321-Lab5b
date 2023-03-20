@@ -1,0 +1,11 @@
+C:\Users\kgrif\source\repos\CS321\CS321_Lab5\CS321 Lab5b\bin\Debug\CS321 Lab5b.exe.config
+C:\Users\kgrif\source\repos\CS321\CS321_Lab5\CS321 Lab5b\bin\Debug\CS321 Lab5b.exe
+C:\Users\kgrif\source\repos\CS321\CS321_Lab5\CS321 Lab5b\bin\Debug\CS321 Lab5b.pdb
+C:\Users\kgrif\source\repos\CS321\CS321_Lab5\CS321 Lab5b\obj\Debug\CS321 Lab5b.csproj.AssemblyReference.cache
+C:\Users\kgrif\source\repos\CS321\CS321_Lab5\CS321 Lab5b\obj\Debug\CS321 Lab5b.csproj.SuggestedBindingRedirects.cache
+C:\Users\kgrif\source\repos\CS321\CS321_Lab5\CS321 Lab5b\obj\Debug\CS321_Lab5b.Form1.resources
+C:\Users\kgrif\source\repos\CS321\CS321_Lab5\CS321 Lab5b\obj\Debug\CS321_Lab5b.Properties.Resources.resources
+C:\Users\kgrif\source\repos\CS321\CS321_Lab5\CS321 Lab5b\obj\Debug\CS321 Lab5b.csproj.GenerateResource.cache
+C:\Users\kgrif\source\repos\CS321\CS321_Lab5\CS321 Lab5b\obj\Debug\CS321 Lab5b.csproj.CoreCompileInputs.cache
+C:\Users\kgrif\source\repos\CS321\CS321_Lab5\CS321 Lab5b\obj\Debug\CS321 Lab5b.exe
+C:\Users\kgrif\source\repos\CS321\CS321_Lab5\CS321 Lab5b\obj\Debug\CS321 Lab5b.pdb
